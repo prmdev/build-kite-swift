@@ -2,8 +2,8 @@
 //  TeamDeleteMemberMutation.swift
 //  Shared
 //
-//  Created by Aaron Sky on 5/24/20.
-//  Copyright © 2020 Aaron Sky. All rights reserved.
+//  Created by prmdev on 5/24/20.
+//  Copyright © 2020 prmdev. All rights reserved.
 //
 
 import Foundation
